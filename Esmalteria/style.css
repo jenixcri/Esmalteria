@@ -1,0 +1,64 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+header table, td{
+    width: 85%;
+    margin: auto;
+}
+body{
+    background-color: blanchedalmond;
+}
+.login{
+    text-align: right;
+}
+.btn-login {
+    padding: 8px 16px;
+    margin-right: 20px;
+    background-color: rgb(255, 255, 255);
+    border: 2px solid rgb(241, 107, 107);
+    border-radius: 1rem;
+    cursor: pointer;
+    font-weight: bold;
+    color: brown;
+}
+h1{
+    color: rgb(230, 61, 61);
+    font-size: 2.5rem;
+    text-align: center;
+    margin-top: 40px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+.produtos{
+    width: 70%;
+    margin: auto;
+}
+.card-produtos{
+    width: 300px;
+    border: 1px solid rgb(241, 234, 107);
+    border-radius: 10px;
+    padding: 20px;
+    background-color: white;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.607);
+    text-align: center;
+}
+.card-produtos button{
+    padding: 12px 24px;
+    background-color: rgb(230, 61, 61);
+    border: none;
+    border-radius: 1rem;
+    font-size: 1rem;
+    font-weight: bold;
+    cursor: pointer;
+    color: white;
+}
+footer{
+    background-color: brown;
+    color: white;
+    text-align: center;
+    padding: 10px 0;
+    width: 100%;
+    font-size: 0.9rem;
+    margin-top: 20px;
+}
+footer p{
+    margin: 0;
+}
